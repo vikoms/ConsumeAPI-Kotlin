@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Consume Laravel API</string>
+    <string name="tutorial_title">Title : %1$s</string>
+    <string name="text_desc">Description</string>
+    <string name="dummy_body">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="text_comments">Comments</string>
+    <string name="text_new_comment">New Comment</string>
+    <string name="text_add_comment">Add Comment</string>
+    <string name="text_tambah_data">Tambah Data</string>
+    <string name="text_title">Title</string>
+    <string name="text_body">Body</string>
+    <string name="text_edit_data">Edit Data</string>
+</resources>
